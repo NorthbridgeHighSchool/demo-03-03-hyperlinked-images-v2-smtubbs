@@ -1,0 +1,16 @@
+.cards img{
+  max-height: 200px;
+}
+.logo img{
+  width: 85px;
+  float: left;
+  margin-right: 10pt;
+}
+h1{
+  color: black;
+  text-decoration: none;
+}
+h2{
+  color: black;
+  text-decoration: none;
+}
