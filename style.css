@@ -2,7 +2,7 @@
   max-height: 200px;
 }
 .logo img{
-  width: 85px;
+  width: 150px;
   float: left;
   margin-right: 10pt;
 }
@@ -13,4 +13,27 @@ h1{
 h2{
   color: black;
   text-decoration: none;
+}
+html{
+  background-color: #47578b;
+}
+a:link{
+  color:black;
+  padding:1px;
+  text-decoration: none;
+}
+a:visited{
+  color:rgb(117, 149, 197);
+}
+a:hover{
+  color:rgb(15, 22, 78);
+}
+a.current{
+  color:#6e6e6e;
+}
+a:active{
+  color:#7b90d6;
+}
+li{
+  margin-bottom: 1px;
 }
